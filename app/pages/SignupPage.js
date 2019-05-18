@@ -99,7 +99,7 @@ export default class Signup extends Component {
                     <Text style={styles.signupText}>Already have an account? </Text>
 
                     <TouchableOpacity onPress={this.goBack}>
-                        <Text style={styles.buttonText}>Signup</Text>
+                        <Text style={styles.buttonText}>SignIn</Text>
                     </TouchableOpacity>  
                 </View>
             </View>

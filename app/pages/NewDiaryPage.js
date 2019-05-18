@@ -94,7 +94,7 @@ export default class NewDiary extends Component {
             let hour = d.getHours();
             let minutes = d.getMinutes();
             var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-            alert(days[d.getDay()]);
+            //alert(days[d.getDay()]);
 
             if(d.getHours() >= 12) {
                 timeType = "PM";

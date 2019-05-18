@@ -36,7 +36,7 @@ export default class Main extends Component {
                 <Header hasTabs>
                     <Left>
                         <Button transparent>
-                            <Icon name="arrow-back" />
+                            <Icon name="arrow-back"/>
                         </Button>
                     </Left>
                     <Body>
